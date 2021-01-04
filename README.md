@@ -4,6 +4,12 @@
 
 React JS Fundamentals Course (2019 Update!)
 
+## Component Life Cycle (핵심)
+  - [mounting](https://reactjs.org/docs/react-component.html#mounting)
+  - [updating](https://reactjs.org/docs/react-component.html#updating)
+  - [unmounting](https://reactjs.org/docs/react-component.html#unmounting)
+
+> [lifecycle diagram- 생명주기 도표](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 
 
 ## 참조
